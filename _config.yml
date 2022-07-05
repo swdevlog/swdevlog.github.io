@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "S/W Developer"
   location         : "Republic of Korea"
-  email            : "insungho@naver.com"
+  # email            : "insungho@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -290,6 +290,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "main"
 
   # _pages
   - scope:
@@ -298,3 +300,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "main"
