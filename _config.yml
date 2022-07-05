@@ -25,7 +25,7 @@ url                      : "https://swdevlog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "swdevlog/swdevlog.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bio-photo.jpg"
+logo                     : # "/assets/images/profile.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Steve In"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_me.jpeg"
   bio              : "S/W Developer"
   location         : "Republic of Korea"
   # email            : "insungho@naver.com"
